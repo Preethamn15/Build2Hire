@@ -11,7 +11,7 @@ Build <b>real-world projects</b>, master <b>modern technologies</b>, and create 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Open%20Source-❤️-ff4d6d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Projects-300+-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects-100+-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Domains-10-2563eb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning%20Levels-3-f59e0b?style=for-the-badge" />
 
@@ -55,7 +55,7 @@ Recruiters have seen these thousands of times.
 
 | 🚀 Projects | 🧭 Domains | 📚 Levels | 🎯 Goal |
 |:--:|:--:|:--:|:--:|
-| **300+** | **10** | **Beginner → Intermediate → Advanced** | **Placement Ready** |
+| **100+** | **10** | **Beginner → Intermediate → Advanced** | **Placement Ready** |
 
 ---
 
